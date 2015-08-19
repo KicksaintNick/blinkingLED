@@ -1,3 +1,4 @@
+#Arduino Starter Project - Blinking LED
 This is a project from my Arduino starter series.
 
 In this project I'm going to make a connect a single LED on a breadboard connected to an Arduino Uno. This project is ideal for beginners who have grasped the basics of Arduino programming and prototyping but wish to learn something a little more advanced. Enjoy!
